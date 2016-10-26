@@ -1,0 +1,4 @@
+<server>
+    <Port>8080</Port>
+    <DocumentRoot>/Users/aaron/Sites/GLTest</DocumentRoot>
+</server>
